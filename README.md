@@ -12,3 +12,7 @@ creatingFeatures.ipynb gives deeper understanding of the data, shows baseline pr
 catBoost.ipynb is an ML model trying to beat the baseline score (MAE)
 
 deepLearning.ipynb is a DL model (1D CNN) trying to beat the baseline score (MAE)
+
+linear_regression_henry.ipynb is Linear regression models with the created features that fail to beat the baseline score (MAE); end of this document does include chart summary of MAE Values across all models
+
+
