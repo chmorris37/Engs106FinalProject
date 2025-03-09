@@ -15,4 +15,10 @@ deepLearning.ipynb is a DL model (1D CNN) trying to beat the baseline score (MAE
 
 linear_regression_henry.ipynb is Linear regression models with the created features that fail to beat the baseline score (MAE); end of this document does include chart summary of MAE Values across all models
 
+# Final Submission Non-Code Files
+
+engs106poster.pptx (a powerpoint version of our poster)
+
+Engs106_Final_Project.pdf (PDF of our final written report)
+
 
